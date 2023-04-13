@@ -1,5 +1,7 @@
 #!/bin/bash
-chmod u+x 0-current_working_directory
+echo
+read var
+chmod u+x [var]
 git add .
 git commit -m "nngz"
 git push
