@@ -1,7 +1,4 @@
 #!/bin/bash
-echo
-read var
-chmod u+x [var]
 git add .
 git commit -m "nngz"
 git push
