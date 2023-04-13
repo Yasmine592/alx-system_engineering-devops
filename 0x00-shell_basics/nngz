@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod u+x 0-current_working_directory
+git add .
+git commit -m "nngz"
+git push
